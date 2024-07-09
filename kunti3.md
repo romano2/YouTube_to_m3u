@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.76/HRe4gSmShIp-8TYn54Slm4fJaBv_brzTtV_UU51iaoby9h1jMmkrFfAXPT5pX-KBGZvWgmo_UYPOUPbyYQnb0g/6ojzIjGAmn4PaeiNqK91WYqIJrACVQtXakVZAJ-M-Yg/video.m3u8
